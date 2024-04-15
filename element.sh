@@ -7,3 +7,7 @@ echo "Please provide an element as an argument."
 else
 echo "hello"
 fi
+
+GET_ELEMENT () {
+  
+}
